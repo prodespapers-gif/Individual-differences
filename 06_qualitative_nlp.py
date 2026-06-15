@@ -69,7 +69,7 @@ McInnes, L., Healy, J., & Melville, J. (2018). UMAP: Uniform manifold
 Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence embeddings
     using Siamese BERT-networks. EMNLP 2019.
 
-Author: BEFOUM Stephane Richard
+
 Target journal: Learning and Individual Differences (Elsevier)
 """
 
