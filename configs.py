@@ -90,7 +90,7 @@ Usage
     set_global_seeds()
     df = pd.read_csv(CONFIG.paths.chinese_phd_dataset)
 
-Author: BEFOUM Stephane Richard
+
 Target journal: Learning and Individual Differences (Elsevier)
 Python version: 3.10 or later
 """
