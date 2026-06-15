@@ -77,7 +77,7 @@ Tikkanen, L., Pyhalto, K., Bujacz, A., & Nieminen, J. (2021). Study
     engagement and burnout of the PhD candidates in medicine. Frontiers
     in Psychology, 12, 727746.
 
-Author: BEFOUM Stephane Richard
+
 Target journal: Learning and Individual Differences (Elsevier)
 """
 
