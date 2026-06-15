@@ -97,7 +97,7 @@ Yadlowsky, S., Fleming, S., Shah, N., Brunskill, E., & Wager, S. (2024).
     Evaluating treatment prioritization rules via rank-weighted average
     treatment effects. Journal of the American Statistical Association.
 
-Author: BEFOUM Stephane Richard
+
 Target journal: Learning and Individual Differences (Elsevier)
 """
 
