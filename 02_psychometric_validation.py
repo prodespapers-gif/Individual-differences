@@ -73,7 +73,7 @@ McDonald, R. P. (1999). Test theory: A unified treatment. Erlbaum.
 Putnick, D. L., & Bornstein, M. H. (2016). Measurement invariance
     conventions and reporting. Developmental Review, 41, 71-90.
 
-Author: BEFOUM Stephane Richard
+
 Target journal: Learning and Individual Differences (Elsevier)
 """
 
