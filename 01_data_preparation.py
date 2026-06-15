@@ -54,7 +54,7 @@ Schafer, J. L., & Graham, J. W. (2002). Missing data: Our view of the
 van Buuren, S. (2018). Flexible imputation of missing data (2nd ed.).
     Chapman and Hall/CRC.
 
-Author: BEFOUM Stephane Richard
+
 Target journal: Learning and Individual Differences (Elsevier)
 """
 
