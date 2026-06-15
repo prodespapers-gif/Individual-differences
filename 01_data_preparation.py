@@ -56,7 +56,7 @@ van Buuren, S. (2018). Flexible imputation of missing data (2nd ed.).
 
 
 Target journal: Learning and Individual Differences (Elsevier)
-"""
+""".
 
 from __future__ import annotations
 
