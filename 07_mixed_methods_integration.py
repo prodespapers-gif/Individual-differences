@@ -67,7 +67,7 @@ Guetterman, T. C., Fetters, M. D., & Creswell, J. W. (2015). Integrating
 O'Cathain, A., Murphy, E., & Nicholl, J. (2010). Three techniques for
     integrating data in mixed methods studies. BMJ, 341, c4587.
 
-Author: BEFOUM Stephane Richard
+
 Target journal: Learning and Individual Differences (Elsevier)
 """
 
