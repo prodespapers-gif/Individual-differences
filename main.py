@@ -62,7 +62,7 @@ The two-sample branching (parallel per-sample stage execution and a
 cross-sample alignment stage) of an earlier draft is removed; there is no
 second sample to process.
 
-Author: BEFOUM Stephane Richard
+
 Target journal: Learning and Individual Differences (Elsevier)
 """
 
