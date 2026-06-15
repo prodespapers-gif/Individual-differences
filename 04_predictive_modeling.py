@@ -65,7 +65,7 @@ Hayes, A. F. (2018). Introduction to mediation, moderation, and
 Lundberg, S. M., & Lee, S.-I. (2017). A unified approach to interpreting
     model predictions. NeurIPS 2017.
 
-Author: BEFOUM Stephane Richard
+
 Target journal: Learning and Individual Differences (Elsevier)
 """
 
